@@ -1,11 +1,8 @@
-## My name:
-- I am **ZolotoyMaxYT**!
-- Я **ZolotoyMaxYT**!
+## My name / Моё имя:
+- I am **Zolotoy Max**!
+- Я **Золотой Макс**!
 
-## I Know:
-- JavaScript / TypeScript maybe
-- C# maybe
-<!---
-ZolotoyMaxYT/ZolotoyMaxYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I Know / Я пишу на:
+- JavaScript / TypeScript
+- C#
+- C++
