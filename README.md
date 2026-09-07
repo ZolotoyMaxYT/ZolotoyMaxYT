@@ -1,8 +1,7 @@
 ## My name / Моё имя:
-- I am **Zolotoy Max**!
-- Я **Золотой Макс**!
+- **Zolotoy Max**!
 
 ## I Know / Я пишу на:
-- JavaScript / TypeScript
 - C#
 - C++
+- JavaScript / TypeScript
